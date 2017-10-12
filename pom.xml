@@ -4,7 +4,7 @@
 
   <groupId>softwareAssign</groupId>
   <artifactId>softwareMaven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>softwareMaven</name>
@@ -12,9 +12,13 @@
   
   <distributionManagement>
 		<repository>
-			<id>MavenRepo.write</id>
-			<url>https://mymavenrepo.com/repo/zeUGkElIm6FbEhIrQgJ3/</url>
+                    <id>MavenRepo.write</id>
+                    <url>https://mymavenrepo.com/repo/zeUGkElIm6FbEhIrQgJ3/</url>
 		</repository>
+                <snapshotRepository>
+                    <id>MavenRepo.write</id>
+                    <url>https://mymavenrepo.com/repo/zeUGkElIm6FbEhIrQgJ3/</url>
+                </snapshotRepository>
   </distributionManagement>
 
   <properties>

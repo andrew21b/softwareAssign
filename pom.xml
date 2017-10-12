@@ -9,7 +9,7 @@
 
   <name>softwareMaven</name>
   <url>http://maven.apache.org</url>
-  yea
+  
   <distributionManagement>
 		<repository>
                     <id>MavenRepo.write</id>
@@ -20,9 +20,7 @@
                     <url>https://mymavenrepo.com/repo/zeUGkElIm6FbEhIrQgJ3/</url>
                 </snapshotRepository>
   </distributionManagement>
-  
-  
-  
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -39,10 +37,5 @@
  	  <artifactId>joda-time</artifactId>
  	  <version>2.9.9</version>
 	</dependency>
-    <dependency>
-      <groupId>softwareAssign</groupId>
-      <artifactId>softwareMaven</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
   </dependencies>
 </project>

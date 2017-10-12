@@ -9,7 +9,7 @@
 
   <name>softwareMaven</name>
   <url>http://maven.apache.org</url>
-  
+  yea
   <distributionManagement>
 		<repository>
                     <id>MavenRepo.write</id>

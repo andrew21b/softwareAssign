@@ -20,6 +20,7 @@
                     <url>https://mymavenrepo.com/repo/zeUGkElIm6FbEhIrQgJ3/</url>
                 </snapshotRepository>
   </distributionManagement>
+  
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
